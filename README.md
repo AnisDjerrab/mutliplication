@@ -1,2 +1,2 @@
-# mutliplication
+# multiplication
 A simple pygame program.
